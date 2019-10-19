@@ -1,0 +1,3 @@
+int arraySumAdjacentDifference(int[] inputArray) {
+
+}
