@@ -9,4 +9,4 @@ int digitSum(int n)
     int d=n%10;
     sum+=d 
     return sum;
-}}
+}
